@@ -2,6 +2,8 @@
 
 Welcome to **DSA Fundamentals**! This repository is your comprehensive guide to mastering Data Structures and Algorithms. Whether you're preparing for coding interviews or building a strong foundation in computer science, this collection covers essential topics with clear explanations and implementations.
 
+For a complete curated list of 150 essential problems, check out [NeetCode 150](neetcode-150.md).
+
 ## 📚 Data Structures
 
 - [📊 Arrays](java/arrays.md)
